@@ -1,4 +1,5 @@
-﻿The assignment was to do a Class that was modeled after a real world object and so I chose to do my class after a vending machine. Vending machine was a good and easy idea because there’s a lot of options that came with it so it was very easy to decide the direction I wanted to go with it. The vending machine sells candy, chips, and soda and also keeps an inventory of how much chips, candy, soda, and money in the machine
+Project Repository (GitHub): https://github.com/acashmoney777/10.1-Vending-Machine
+The assignment was to do a Class that was modeled after a real world object and so I chose to do my class after a vending machine. Vending machine was a good and easy idea because there’s a lot of options that came with it so it was very easy to decide the direction I wanted to go with it. The vending machine sells candy, chips, and soda and also keeps an inventory of how much chips, candy, soda, and money in the machine
 
 
 * __init__ method: is the constructor method and I defined chips, soda, candy, and inventory(money) in it. All the important stuff is in it
